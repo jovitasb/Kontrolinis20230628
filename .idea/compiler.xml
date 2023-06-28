@@ -9,5 +9,8 @@
         <module name="Kontrolinis20230628" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="IngaSaveljevaite" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

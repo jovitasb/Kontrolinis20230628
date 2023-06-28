@@ -17,9 +17,9 @@ public class BaseTest {
         driver = new ChromeDriver(co);
         driver.manage().window().maximize();
 
-        driver.get("http://localhost:8080/prisijungti");
-        // driver.get("http://localhost:8080/registruoti");
-        // driver.get("http://localhost:8080/skaiciuoti");
+      //  driver.get("http://localhost:8080/prisijungti");
+         driver.get("http://localhost:8080/registruoti");
+       //  driver.get("http://localhost:8080/skaiciuoti");
 
 //        @AfterEach
 //        public void closeBrowser () {
